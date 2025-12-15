@@ -10,6 +10,6 @@ touch .env
 touch setup.py
 touch app.py
 touch research/trails.ipynb
-touvh requirements.txt
+touch requirements.txt
 
 echo "Directory structure created successfully."
