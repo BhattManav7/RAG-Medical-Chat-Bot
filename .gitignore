@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+backend/app/config/*.env
+backend/app/config/*.key
+backend/app/config/*.token
